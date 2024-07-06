@@ -1,0 +1,40 @@
+.navigation {
+    display: flex;
+    align-items: center;
+    padding: 1.125em 5em;
+}
+
+.navigation__logo {
+    padding: 0.5em;
+    margin-right: 7.43em;
+}
+
+.links {
+    display: flex;
+    gap: 2em;
+}
+
+.links a {
+    text-decoration: none;
+    color: var(--cinza-claro);
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    gap: 0.75em;
+    font-weight: 500;
+    color: var(--cinza-claro);
+    padding: 0.6em 1.12em;
+    border-radius: 0.5em;
+}
+
+.buttons {
+    margin-left: auto;
+}
+
+button#singUp {
+    color: var(--branco);
+    background-color: var(--vermelho-escuro);
+}
