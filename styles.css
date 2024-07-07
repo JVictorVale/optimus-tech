@@ -1,5 +1,6 @@
 @import url("styles/nav.css");
 @import url("styles/header.css");
+@import url("styles/metrics.css");
 
 :root {
     --branco: #FFFFFF;
@@ -22,4 +23,5 @@ body {
     height: 100vh;
     font-family: var(--fonte-principal);
     font-size: 1em;
+    font-weight: 400;
 }
