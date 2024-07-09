@@ -1,6 +1,7 @@
 @import url("styles/nav.css");
 @import url("styles/header.css");
 @import url("styles/metrics.css");
+@import url("styles/talents.css");
 
 :root {
     --branco: #FFFFFF;
