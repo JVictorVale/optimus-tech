@@ -1,0 +1,32 @@
+.conteudo {
+    text-align: center;
+    background: rgba(195, 25, 25, 0.03);
+    border-radius: 1em;
+    margin: 0 15em;
+    padding: 4em;
+}
+
+.depoimentos__subtitulo {
+    font-size: 0.875em;
+    font-weight: 600;
+    color: var(--vermelho-escuro);
+}
+
+.depoimentos__titulo {
+    font-size: 2.25em;
+    font-weight: 500;
+    color: var(--azul-escuro);
+    padding: 0.45em 1.8em 0.85em;
+    
+}
+
+.imagem__titulo {
+    color: var(--azul-escuro);
+    font-weight: 500;
+    margin: 1em 0 0.25em;
+}
+
+.imagem__subtitulo {
+    font-size: 0.875em;
+    color: var(--cinza-claro);
+}

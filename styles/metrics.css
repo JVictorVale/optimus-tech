@@ -11,19 +11,19 @@
     height: 10em;
 }
 
-h1 {
+.metrics-dados {
     font-size: 3.75em;
     font-weight: 600;
     color: var(--vermelho-escuro);
 }
 
-h2 {
+.metrics-titulo {
     font-size: 1.125em;
     font-weight: 500;
     color: var(--azul-escuro);
     margin: 0.75em 0 0.5em 0;
 }
 
-p {
+.metrics-subtitulo {
     color: var(--cinza-claro);
 }

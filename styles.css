@@ -1,10 +1,12 @@
 @import url("styles/nav.css");
 @import url("styles/header.css");
 @import url("styles/metrics.css");
-@import url("styles/talents.css");
+@import url("styles/vagas.css");
+@import url("styles/depoimentos.css");
 
 :root {
     --branco: #FFFFFF;
+    --branco-gelo: #EAECF0;
     --cinza-escuro: #3A404E;
     --cinza-claro: #667085;
     --vermelho-escuro: #8E2424;
