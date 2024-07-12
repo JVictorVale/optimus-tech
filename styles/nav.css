@@ -28,6 +28,9 @@ button {
     color: var(--cinza-claro);
     padding: 0.6em 1.12em;
     border-radius: 0.5em;
+    font-family: var(--fonte-principal);
+    font-size: 1em;
+    font-weight: 500;
 }
 
 .buttons {
@@ -37,4 +40,7 @@ button {
 button#singUp {
     color: var(--branco);
     background-color: var(--vermelho-escuro);
+    border: 1px solid var(--vermelho-escuro);
+    box-shadow: 0px 1px 2px 0px var(--cor-box-shadow);
+    padding: 0.625em 1.125em;
 }

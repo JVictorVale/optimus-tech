@@ -3,6 +3,7 @@
 @import url("styles/metrics.css");
 @import url("styles/vagas.css");
 @import url("styles/depoimentos.css");
+@import url("styles/rodape.css");
 
 :root {
     --branco: #FFFFFF;
@@ -11,6 +12,10 @@
     --cinza-claro: #667085;
     --vermelho-escuro: #8E2424;
     --azul-escuro: #101828;
+    --branco-rodape: #F9FAFB;
+    --cinza-copyright: #98A2B3;
+    --cinza-rodape-submit: #D0D5DD;
+    --cor-box-shadow: #1018280D;
 
     --fonte-principal: 'Inter', sans-serif;
 }

@@ -1,0 +1,45 @@
+.rodape {
+    text-align: center;
+    background: var(--branco-rodape);
+    padding: 6em 0;
+}
+
+.rodape__titulo {
+    color: var(--azul-escuro);
+    font-size: 2.25em;
+    font-weight: 600;
+}
+
+.rodape__subtitulo {
+    color: var(--cinza-claro);
+    font-size: 1.25em;
+    font-weight: 400;
+    margin: 1.25em 0  2.5em 0;
+}
+
+.rodape__submit {
+    border-radius: 0.5em;
+    border: 1px solid var(--cinza-rodape-submit);
+    padding: 0.75em 0.875em 0.75em 1em;
+    width: 15%;
+    margin-right: 1em;
+}
+
+.rodape__submit::placeholder {
+    color: var(--cinza-claro);
+    background: var(--branco);
+}
+
+button#submit-email {
+    background: var( --vermelho-escuro);
+    border-radius: 0.5em;
+    border: 1px solid var(--vermelho-escuro);
+    box-shadow: 0px 1px 2px 0px var(--cor-box-shadow);
+    color: var(--branco);
+    padding: 0.75em 1.25em;
+}
+
+.rodape__copyright {
+    color: var(--cinza-copyright);
+    margin-top: 2em;
+}
