@@ -27,10 +27,3 @@
 .metrica-subtitulo {
     color: var(--cinza-claro);
 }
-
-@media screen and (max-width: 920px) {
-    .metricas {
-      padding: 0 4rem;
-    
-  }
-}
