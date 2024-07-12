@@ -4,17 +4,17 @@
     align-items: center;
 }
 
-.talents {
+.talentos {
     text-align: center;
 }
 
-.talents__img {
+.talentos__img {
     text-align: center;
     width: 72%;
     margin-bottom: 4em;
 }
 
-.talents__alert{
+.talentos__alerta {
     background: rgba(142, 36, 36, 0.05);
     color: var(--vermelho-escuro);
     font-size: 0.8;
@@ -25,13 +25,13 @@
     margin-bottom: 1em;
 } 
 
-.talents__title {
+.talentos__titulo {
     color: var(--azul-escuro);
     font-weight: 600;
     font-size: 2.25em;
 }
 
-.talents__text {
+.talentos__texto {
     color: var(--cinza-claro);
     font-size: 1.25em;
     font-weight: 400;
